@@ -1,0 +1,15 @@
+C:\VSO\Azure\Shop.Dao\bin\Debug\DataBase\Database1.mdf
+C:\VSO\Azure\Shop.Dao\bin\Debug\DataBase\Database1_log.ldf
+C:\VSO\Azure\Shop.Dao\bin\Debug\Shop.Dao.dll.config
+C:\VSO\Azure\Shop.Dao\bin\Debug\Shop.Dao.dll
+C:\VSO\Azure\Shop.Dao\bin\Debug\Shop.Dao.pdb
+C:\VSO\Azure\Shop.Dao\bin\Debug\EntityFramework.dll
+C:\VSO\Azure\Shop.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\VSO\Azure\Shop.Dao\bin\Debug\Shop.Domain.dll
+C:\VSO\Azure\Shop.Dao\bin\Debug\Shop.Domain.pdb
+C:\VSO\Azure\Shop.Dao\bin\Debug\Shop.Domain.dll.config
+C:\VSO\Azure\Shop.Dao\bin\Debug\EntityFramework.xml
+C:\VSO\Azure\Shop.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\VSO\Azure\Shop.Dao\obj\Debug\Shop.Dao.csprojResolveAssemblyReference.cache
+C:\VSO\Azure\Shop.Dao\obj\Debug\Shop.Dao.dll
+C:\VSO\Azure\Shop.Dao\obj\Debug\Shop.Dao.pdb

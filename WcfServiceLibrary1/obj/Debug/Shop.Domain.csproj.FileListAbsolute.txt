@@ -1,0 +1,10 @@
+C:\VSO\Azure\WcfServiceLibrary1\bin\Debug\Shop.Domain.dll.config
+C:\VSO\Azure\WcfServiceLibrary1\bin\Debug\Shop.Domain.dll
+C:\VSO\Azure\WcfServiceLibrary1\bin\Debug\Shop.Domain.pdb
+C:\VSO\Azure\WcfServiceLibrary1\bin\Debug\EntityFramework.dll
+C:\VSO\Azure\WcfServiceLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\VSO\Azure\WcfServiceLibrary1\bin\Debug\EntityFramework.xml
+C:\VSO\Azure\WcfServiceLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\VSO\Azure\WcfServiceLibrary1\obj\Debug\Shop.Domain.csprojResolveAssemblyReference.cache
+C:\VSO\Azure\WcfServiceLibrary1\obj\Debug\Shop.Domain.dll
+C:\VSO\Azure\WcfServiceLibrary1\obj\Debug\Shop.Domain.pdb
